@@ -47,10 +47,10 @@
 
 ## I'm a Software Engineer and an AI enthusiast
 
-- 🔭 I’m currently working as a freelance web-developer/ Software Engineer.
-- 🌱 I’m passionate about Data Sciecne and Machine Leaning.
-- 🐍 I'm currently working with Python, SQL, Tableau
-- ⚡ Facts about me: I love Music, A Gamer, I like Travelling. 
+- 🔭 I’m currently working as a freelance Web-Developer/ Software Engineer and Machine Learning Engineer.
+- 🌱 I’m passionate about Maths and Machine learning.
+- 🐍 My research interests lie within the domain of unsupervised learning( Gan's, DBN, RBM) and reinforcement learning (Q-learning) algorithms.
+- ⚡ Facts about me: I love Music and play the guitar (learning piano), I'm a Gamer, I like Travelling. 
 
 ---
 
@@ -64,14 +64,16 @@
 
 [website]: https://shahanhasan.github.io/
 [LinkedIn]: https://www.linkedin.com/in/shahan-hasan-141337142/
-[Stack-Overflow]:https://stackoverflow.com/users/12205044/shahan-hasan
+[Stack-Overflow]: https://stackoverflow.com/users/12205044/shahan-hasan
+[email]: mailto:shahan.hasan101294@gmail.com
 
 
 ---
 
 ## Connect With Me:
 
-[<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][Stack-Overflow]
 
